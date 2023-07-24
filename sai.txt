@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-Hii this is sai 
+
+Hi this is sai 
 =======
 Hi this is sai manohar
->>>>>>> f214574d47ab8a78a1123288d8ec024ac8f47f62
+
